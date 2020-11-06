@@ -14,8 +14,7 @@ organizations:
   url: "upenn.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Goal of my research is the analysis and computation of visual geometry-aware representations that enable invariance in the perception of 3D scenes and/or facilitate 3D recovery of humans, objects, space and motion. One desirable property of such representations is to be equivariant to transformation groups, a property that we achieved by building networks that perform convolutions on homogeneous spaces like the sphere. We build representations to recover the 3D pose and shape of humans and animals. Working with neuroscientists and biologists have built a smart aviary that will be used as a telescope for observing the social but also individual behavior of birds. In particular, we have designed the first algorithm that computes the 3D posture of a bird without using any markers. For a robot to operate in a 3D environment we do not only need representations of its environment but also of its actions. Such representations can be used to efficiently explore the environment by choosing directions that will decrease the epistemic uncertainty. Last, I have been fascinated by the rise of neuromorphic cameras that mimic biological eyes and output events instead of frames. We designed the most popular algorithm EVflownet for the computation of optical flow out of events. 
-I have graduated 24 PhD students, among them three women, and two African-American. My graduated student Christine Allen-Blanchette is the first ever African-American woman who graduated from Penn/CIS.
+bio: 
 
 interests:
 - Computer Vision
@@ -63,6 +62,6 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- GRASP Laboratory
+#user_groups:
+#  - GRASP Laboratory
 
